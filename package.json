@@ -1,0 +1,19 @@
+{
+  "name": "tablero",
+  "version": "1.0.0",
+  "description": "Un tablero web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleeli/tablero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caleeli/tablero/issues"
+  },
+  "homepage": "https://github.com/caleeli/tablero#readme"
+}
